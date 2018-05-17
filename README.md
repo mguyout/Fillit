@@ -17,7 +17,7 @@ $> ./RT file/file.rt
 ## Output examples
 
 ### Reflexion
-<img src="./img/reflexion1.png" width="800" height="600" alt="Reflexion 1">
+<img src="./img/Fillit.png" width="800" height="600" alt="Reflexion 1">
 <img src="./img/reflexion2.png" width="800" height="600" alt="Reflexion 2">
 
 ### Color perturbations
