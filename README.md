@@ -14,5 +14,5 @@ $> make
 $> ./Fillit map_file
 ```
 
-## Exemple imagée
+## Exemple imagé
 <img src="./img/Fillit.png" width="292" height="1289" alt="Reflexion 1">
