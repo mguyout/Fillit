@@ -5,13 +5,13 @@
 
 Ce projet consiste à remplir une grille d'un maximum de bloc de Tetris.
 La taille de la grille et la forme/nombre de Tetris sont modulables.
-Mon code s'appuie sur le backtracking et va chercher le meilleur agencement possible  entre toutes les pièces ainsi que de la taille de la grille.
+Mon code s'appuie sur le backtracking et va chercher à agencer les pièces dans le plus petit carré possible.
 
 ## Usage
 
 ```
 $> make
-$> ./RT file/file.rt
+$> ./Fillit map_file
 ```
 
 ## Exemple imagée
